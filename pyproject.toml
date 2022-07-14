@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "aspect_ratio_kd"
 version = "0.1.1"
-description = ""
+description = "README.rst"
 authors = ["Kadir Coşar <kadircosarnew@gmail.com>"]
 
 [tool.poetry.dependencies]
